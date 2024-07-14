@@ -42,7 +42,7 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://telegra.ph/file/35137db010f6ff1
 
 HELP_TXT = "<b>Hi Dude!\nThis is an file to link bot work for @XANIME_UNIVERSE\n\n❏ Bot Cammands\n├/start : start the bot\n├/about : Our Information\n└/help : Help related Bot\n\n💥 Simply click on link and start the bot join both channels and try again thats it.....!\n\n🧑‍💻 Developed by <a href=https://t.me/Dumb_luffy>ʟᴜғғʏ</a></b>"
 
-ABOUT_TXT = "<b>⟦⟧ Hi There {first}!💫\n┏━━━━━━━❪❂❫━━━━━━━━\n◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/Dumb_luffy>ʟᴜғғʏ</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/XANIM_UNIVERSE>xᴀɴɪᴍᴇ ᴜɴɪᴠᴇʀsᴇ</a>\n◈ ᴏɴɢᴏɪɴɢ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/XANIME_ongoing>xᴀɴɪᴍᴇ ᴏɴɢᴏɪɴɢ</a>\n◈ ᴏᴜʀ ᴄᴏᴍᴍᴜɴɪᴛʏ : <a href=https://t.me/Team_Wargods>ᴛᴇᴀᴍ ᴡᴀʀɢᴏᴅs</a>\n◈ ᴀɴɪᴍᴇ ᴄʜᴀᴛ : <a href=https://t.me/xanime_chat_group>xᴀɴɪᴍᴇ ᴄʜᴀᴛ</a>\n┗━━━━━━━❪❂❫━━━━━━━━</b>"
+ABOUT_TXT = "<b>⟦⟧ Hi There {first}!💫\n┏━━━━━━━❪❂❫━━━━━━━━\n◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/Dumb_luffy>ʟᴜғғʏ</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/XANIME_UNIVERSE>xᴀɴɪᴍᴇ ᴜɴɪᴠᴇʀsᴇ</a>\n◈ ᴏɴɢᴏɪɴɢ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/XANIME_ongoing>xᴀɴɪᴍᴇ ᴏɴɢᴏɪɴɢ</a>\n◈ ᴏᴜʀ ᴄᴏᴍᴍᴜɴɪᴛʏ : <a href=https://t.me/Team_Wargods>ᴛᴇᴀᴍ ᴡᴀʀɢᴏᴅs</a>\n◈ ᴀɴɪᴍᴇ ᴄʜᴀᴛ : <a href=https://t.me/xanime_chat_group>xᴀɴɪᴍᴇ ᴄʜᴀᴛ</a>\n┗━━━━━━━❪❂❫━━━━━━━━</b>"
 
 #start message
 START_MSG = os.environ.get("START_MESSAGE", "<b>ᴘʀᴇᴘᴀʀᴇ ʏᴏᴜʀsᴇʟғ!.. {first}! 💥\n\nɪ ᴀᴍ ᴀ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ...!\nɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴘʀɪᴠᴀᴛᴇ ꜰɪʟᴇꜱ ᴛʜʀᴏᴜɢʜ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ʟɪɴᴋ....!\nᴘᴏᴡᴇʀᴇᴅ ʙʏ - @XANIME_UNIVERSE</b>")
