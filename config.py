@@ -10,7 +10,7 @@ from logging.handlers import RotatingFileHandler
 
 
 #Bot token @Botfather
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "7249806593:AAH1mumLG9OVlv6nPyoU8blog9_do5pP3tA")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "6950040966:AAFj33lpwvXaErq10bmwsWJHpSIf8EW0Oro")
 
 #Your API ID from my.telegram.org
 APP_ID = int(os.environ.get("APP_ID", "10840324"))
@@ -19,7 +19,7 @@ APP_ID = int(os.environ.get("APP_ID", "10840324"))
 API_HASH = os.environ.get("API_HASH", "a630b9cf17959bcbffd661edbc719e09")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002225006101"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002087089796"))
 
 #OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", "5066042764"))
@@ -37,8 +37,8 @@ FORCESUB_CHANNEL2 = int(os.environ.get("FORCESUB_CHANNEL2", "-1001748940647"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
-START_PIC = os.environ.get("START_PIC", "https://telegra.ph/file/53c8e8a6a14517b2a202e.jpg")
-FORCE_PIC = os.environ.get("FORCE_PIC", "https://telegra.ph/file/35137db010f6ff1e16c42.jpg")
+START_PIC = os.environ.get("START_PIC", "https://graph.org/file/ea3a4828434617c8c7b9c.jpg")
+FORCE_PIC = os.environ.get("FORCE_PIC", "https://graph.org/file/c0267fd99c690e89575af.jpg")
 
 HELP_TXT = "<b>Hi Dude!\nThis is an file to link bot work for @XANIME_UNIVERSE\n\n❏ Bot Cammands\n├/start : start the bot\n├/about : Our Information\n└/help : Help related Bot\n\n💥 Simply click on link and start the bot join both channels and try again thats it.....!\n\n🧑‍💻 Developed by <a href=https://t.me/Dumb_luffy>ʟᴜғғʏ</a></b>"
 
@@ -48,7 +48,7 @@ ABOUT_TXT = "<b>⟦⟧ Hi There {first}!💫\n┏━━━━━━━❪❂❫�
 START_MSG = os.environ.get("START_MESSAGE", "<b>ᴘʀᴇᴘᴀʀᴇ ʏᴏᴜʀsᴇʟғ!.. {first}! 💥\n\nɪ ᴀᴍ ᴀ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ...!\nɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴘʀɪᴠᴀᴛᴇ ꜰɪʟᴇꜱ ᴛʜʀᴏᴜɢʜ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ʟɪɴᴋ....!\nᴘᴏᴡᴇʀᴇᴅ ʙʏ - @XANIME_UNIVERSE</b>")
 try:
     ADMINS=[5205293211]
-    for x in (os.environ.get("ADMINS", "5066042764").split()):
+    for x in (os.environ.get("ADMINS", "5466821832").split()):
         ADMINS.append(int(x))
 except ValueError:
         raise Exception("Your Admins list does not contain valid integers.")
